@@ -1,0 +1,67 @@
+body {
+    background-color: #cbedd2;
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#inputs {
+    height: 30px;
+}
+
+.from-input {
+    float: left;
+}
+
+.to-input {
+    float: right;
+}
+
+.input,
+.output {
+    width: 100%;
+}
+
+.input button {
+    margin: 10px auto 0 auto;
+    width: 200px;
+    text-align: center;
+}
+
+.output,
+textarea {
+    resize: none;
+    width: 100%;
+}
+
+.output,
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.output h3,
+.input h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#output-area,
+textarea {
+    flex-grow: 1;
+    min-height: 300px;
+    font-size: 13px;
+    background-color: #ffffff;
+    border: 1px #000000 solid;
+}
+
+#output-area {
+    overflow-wrap: break-word;
+    font-family: monospace;
+}

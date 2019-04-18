@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Sequence reducer</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Sequence reducer</h1>
+        <div id="inputs">
+            <span class="from-input">
+                <div>
+                    <label for="from">Delete until:</label>
+                    <input id="from" type="text">
+                    <button type="submit" class="from-set">Set</button>
+                </div>
+                <div>
+                    <p id="fromOutput"></p>
+                </div>
+            </span>
+            <span class="to-input">
+                <div>
+                    <label for="to">Delete from:</label>
+                    <input id="to" type="text">
+                    <button type="submit" class="to-set">Set</button>
+                </div>
+                <div>
+                    <p id="toOutput"></p>
+                </div>
+            </span>
+        </div>
+        <div class="input">
+            <h3>Input</h3>
+            <textarea id="input-area"></textarea>
+            <button type="submit" class="submit">Submit</button>
+        </div>
+        <div class="output">
+            <h3>Output</h3>
+            <div id="output-area"></div>
+        </div>
+    </div>
+    <script src="genetica.js"></script>
+</body>
+
+</html>
