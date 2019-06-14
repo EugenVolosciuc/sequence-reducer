@@ -5,7 +5,7 @@ The program deletes the string between ">" and the first input and between secon
 
 Examples of sequences you can use:
 
->ALKHATIB_10044-HCO_D03_025 COX_Eup_Fadel_cor_Fusu.0.13 
+\>ALKHATIB_10044-HCO_D03_025 COX_Eup_Fadel_cor_Fusu.0.13 
 nnataaagatattgggattttatattttatttttggggcatgatcaggagttttaggact
 ttcaataagaataattattcgaatagaattaggaacccctggttgtttaattggtaatga
 tcaaatttataattcaattgtaactgttcatgcatttacaataatttttttttttgtaat
@@ -18,7 +18,7 @@ aaaaatttataaaattgaattaatttctttattttcatggtcgttattattaacagctat
 tttattattattatcacttccggtattagcaggtgcaattacaatgttactatttgatcg
 aaatttaaatacttcattttttgatcc
 
->KX086210.1 Eupelmus sp. 1 LF-2016 voucher B.SP 05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+\>KX086210.1 Eupelmus sp. 1 LF-2016 voucher B.SP 05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 GTTTATATTTTAATTTTACCTGGATTTGGGTTAGTTTCCCAAATAATTAGAAATGAGAGAATAAAAAAAG
 AAACTTTTGGGGTTATAGGGATAATTTATGCTATAATTTCTATTGGATTTTTAGGGTTTATTGTTTGAGC
 TCATCATATATTTACTGTAGGAATAGATGTTGATACACGAGCTTATTTCACATCTGCTACTATAATTATT
@@ -26,7 +26,7 @@ GCTGTACCTACAGGAATTAAAATTTTTAGGTGATTAGCTTCAATAAATGGAATAAAAATTAAATTTAATG
 TATCAAATTTATGATTATTAGGATTTATTTTTTTATTTACTGTAGGGGGGTTAACTGGAATTATCTTATC
 AAATTCTTCAATTGATATTGTATTACACGATACTTATTATGTAGTTGCTCACTTTCATT
 
->KT454483.1 Eupelmus sp. 1 LF-2016 voucher B BG 02m 28S ribosomal RNA gene, partial sequence
+\>KT454483.1 Eupelmus sp. 1 LF-2016 voucher B BG 02m 28S ribosomal RNA gene, partial sequence
 AAAAGAACTTTGAAGAGAGAGTTCAAGAGTACGTGAAACCGTTCAGGGGTAAACCTGAGAAACCCAAAAG
 ATCGAATGGGGAGATTCATCGTCAGCGGCTCTGGCTTCCGTGCGGTTCGCGATGGCCGGGACCTCGGTCT
 CGCGTCACGCGTCCGCTGCGGCATGTCCGGATGCCGTCGGCGTGCACTTCTCCCCTAGTAGGACGTCGCG
